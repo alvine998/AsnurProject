@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\AsnurProject\AsnurProject\bin\Debug\AsnurProject.exe.config
+C:\Users\User\source\repos\AsnurProject\AsnurProject\bin\Debug\AsnurProject.exe
+C:\Users\User\source\repos\AsnurProject\AsnurProject\bin\Debug\AsnurProject.pdb
+C:\Users\User\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.Form1.resources
+C:\Users\User\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.Form_Login.resources
+C:\Users\User\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.Properties.Resources.resources
+C:\Users\User\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.exe
+C:\Users\User\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.pdb
