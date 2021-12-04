@@ -138,6 +138,7 @@
             this.dataBarangToolStripMenuItem.Name = "dataBarangToolStripMenuItem";
             this.dataBarangToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.dataBarangToolStripMenuItem.Text = "Data Barang";
+            this.dataBarangToolStripMenuItem.Click += new System.EventHandler(this.dataBarangToolStripMenuItem_Click);
             // 
             // dataKaryawanToolStripMenuItem
             // 
@@ -175,6 +176,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Aplikasi Kasir Toko Asnur - Asnur ® 2021";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);

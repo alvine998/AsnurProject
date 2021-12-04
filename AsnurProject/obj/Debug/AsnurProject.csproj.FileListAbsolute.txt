@@ -23,3 +23,4 @@ C:\Users\alvine\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.ex
 C:\Users\alvine\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.pdb
 C:\Users\alvine\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.Form_TentangAplikasi.resources
 C:\Users\alvine\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.Form_DataKaryawan.resources
+C:\Users\alvine\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.Form_DataBarang.resources

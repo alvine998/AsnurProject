@@ -38,6 +38,8 @@ namespace AsnurProject
             if(textBox1.Text == "adminasnur" && textBox2.Text == "admin")
             {
                 MessageBox.Show("Login Sukses");
+                Form_Login f1 = new Form_Login();
+                f1.Visible
                 
             } else
             {

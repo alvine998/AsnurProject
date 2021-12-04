@@ -16,6 +16,14 @@ namespace AsnurProject
         {
             InitializeComponent();
             logoutToolStripMenuItem.Enabled = false;
+            transaksiToolStripMenuItem.Enabled = false;
+            laporanToolStripMenuItem.Enabled = false;
+            masterToolStripMenuItem.Enabled = false;
+        }
+
+        public void VisibleTools()
+        {
+
         }
 
         private void helpToolStripMenuItem_Click(object sender, EventArgs e)
@@ -54,6 +62,17 @@ namespace AsnurProject
         {
             Form_DataKaryawan f3 = new Form_DataKaryawan();
             f3.Show();
+        }
+
+        private void dataBarangToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form_DataBarang f4 = new Form_DataBarang();
+            f4.Show();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
