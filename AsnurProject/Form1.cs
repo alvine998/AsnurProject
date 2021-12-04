@@ -15,6 +15,7 @@ namespace AsnurProject
         public Form1()
         {
             InitializeComponent();
+            logoutToolStripMenuItem.Enabled = false;
         }
 
         private void helpToolStripMenuItem_Click(object sender, EventArgs e)
@@ -31,6 +32,28 @@ namespace AsnurProject
         private void keluarToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void logoutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void barangToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form_TentangAplikasi f2 = new Form_TentangAplikasi();
+            f2.Show();
+        }
+
+        private void dataKaryawanToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form_DataKaryawan f3 = new Form_DataKaryawan();
+            f3.Show();
         }
     }
 }

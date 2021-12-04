@@ -10,3 +10,16 @@ C:\Users\User\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.cspr
 C:\Users\User\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.exe
 C:\Users\User\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.pdb
+C:\Users\alvine\source\repos\AsnurProject\AsnurProject\bin\Debug\AsnurProject.exe.config
+C:\Users\alvine\source\repos\AsnurProject\AsnurProject\bin\Debug\AsnurProject.exe
+C:\Users\alvine\source\repos\AsnurProject\AsnurProject\bin\Debug\AsnurProject.pdb
+C:\Users\alvine\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.csproj.AssemblyReference.cache
+C:\Users\alvine\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.Form1.resources
+C:\Users\alvine\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.Form_Login.resources
+C:\Users\alvine\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.Properties.Resources.resources
+C:\Users\alvine\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.csproj.GenerateResource.cache
+C:\Users\alvine\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.csproj.CoreCompileInputs.cache
+C:\Users\alvine\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.exe
+C:\Users\alvine\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.pdb
+C:\Users\alvine\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.Form_TentangAplikasi.resources
+C:\Users\alvine\source\repos\AsnurProject\AsnurProject\obj\Debug\AsnurProject.Form_DataKaryawan.resources

@@ -15,6 +15,7 @@ namespace AsnurProject
         public Form_Login()
         {
             InitializeComponent();
+            Boolean login = false;
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -37,6 +38,7 @@ namespace AsnurProject
             if(textBox1.Text == "adminasnur" && textBox2.Text == "admin")
             {
                 MessageBox.Show("Login Sukses");
+                
             } else
             {
                 MessageBox.Show("Login Gagal");
