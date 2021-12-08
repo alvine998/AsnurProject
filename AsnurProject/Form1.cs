@@ -74,5 +74,11 @@ namespace AsnurProject
         {
 
         }
+
+        private void mulaiTransaksiToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form_Transaksi f5 = new Form_Transaksi();
+            f5.Show();
+        }
     }
 }

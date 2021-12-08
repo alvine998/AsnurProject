@@ -39,7 +39,7 @@ namespace AsnurProject
             {
                 MessageBox.Show("Login Sukses");
                 Form_Login f1 = new Form_Login();
-                f1.Visible
+          
                 
             } else
             {
